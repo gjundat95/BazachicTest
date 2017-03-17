@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BazarchicTest</string>
+    <string name="app_detail">Sale Details</string>
+    <string name="name">Name</string>
+    <string name="store">Store</string>
+    <string name="description">Description</string>
+    <string name="time">End in</string>
+</resources>
